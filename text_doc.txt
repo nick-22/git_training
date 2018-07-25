@@ -1,3 +1,4 @@
 create for training
 the second string
 3
+hello my dear freand
