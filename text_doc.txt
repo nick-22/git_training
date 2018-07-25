@@ -4,3 +4,4 @@ the second string;
 hello my dear freand;
 5. glad to see you;
 6. аааа
+7. иииии
